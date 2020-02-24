@@ -1,6 +1,6 @@
 ## This is step 1: create ROS package
 
-#### step (a): update system (Ben's part)
+#### step (a): update system (Tim's part)
 
 ```
 sudo apt-get update
@@ -12,3 +12,5 @@ sudo apt-get upgrade -y
 
 
 #### step (b) (LI Bai)
+
+## This is a modification by Ben
