@@ -8,3 +8,4 @@ sudo apt-get upgrade -y
 ```
 
 
+![NAO Robot](https://github.com/lbaitemple/test1234/blob/master/image/interfaces.jpg)
